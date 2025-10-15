@@ -8,7 +8,7 @@ Currently working with **C++** and **HTML**, and learning **Python** step by ste
 ##  Languages & Tools I Know:
 - C++
 - HTML
-- Learning Python
+- Python
 - Tools: Git, GitHub, VS Code
   
 ##  Projects I'm Working On:
