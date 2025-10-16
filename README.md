@@ -35,5 +35,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Husnena-Nadeem&theme=radical&border_radius=15" height="180" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=Husnena-Nadeem&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
+
