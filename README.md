@@ -34,7 +34,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Husnena-Nadeem&show_icons=true&locale=en&theme=radical&border_radius=15" height="180" />
 </p>
 
+<h2 align="center">🔥 GitHub Streak 🔥</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=Husnena-Nadeem&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img 
+       src="https://streak-stats.demolab.com?user=Husnena-Nadeem&theme=tokyonight&hide_border=false&border_radius=15"
+       alt="Husnena-Nadeem Streak Stats" 
+       height="180" />
 </p>
 
